@@ -15,7 +15,7 @@ directement exploitable par une API.
 
 ## Données sources
 
-Les fichiers se trouvent dans [`resources/`](./resources). Ce sont des CSV
+Les fichiers se trouvent dans [`resources/`](data). Ce sont des CSV
 (séparateur `,`, en-tête sur la première ligne, encodage UTF-8).
 
 | Fichier                    | Contenu                                                                                                                                                                                                                                                                               |
